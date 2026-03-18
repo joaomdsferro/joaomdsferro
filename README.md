@@ -8,3 +8,5 @@
 		<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
 	</a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&layout=compact..." />
