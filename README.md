@@ -9,4 +9,6 @@
 	</a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&layout=compact..." />
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&layout=compact..." />
+</p>
