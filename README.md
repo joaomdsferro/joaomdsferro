@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&layout=compact..." />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&range=all_time&layout=compact&v=1" />
 </p>
