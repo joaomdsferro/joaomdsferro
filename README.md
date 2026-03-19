@@ -10,5 +10,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&range=all_time&layout=compact&v=1" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&range=all_time&layout=compact&theme=tokyonight&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&range=all_time&layout=compact&theme=default&v=1">
+    <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&range=all_time&layout=compact&v=1">
+  </picture>
 </p>
