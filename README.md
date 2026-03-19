@@ -16,3 +16,5 @@
     <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomdsferro&range=all_time&layout=compact&v=1">
   </picture>
 </p>
+
+<p align="right"><i>stats are since 2026, March 18th</i></p>
