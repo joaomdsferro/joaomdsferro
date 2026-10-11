@@ -14,28 +14,19 @@
 
 ## 🚀 Building: Wisething
 
-<table>
-<tr>
-<td width="120" align="center">
-  <a href="https://wisething.app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/wisething-logo-white.svg">
-      <img src="assets/wisething-logo-black.svg" width="88" alt="Wisething logo">
-    </picture>
-  </a>
-</td>
-<td>
+<a href="https://wisething.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wisething-banner-dark.svg">
+    <img src="assets/wisething-banner-light.svg" width="100%" alt="Wisething: Wealth intelligence. Track every transaction, organize by category and scope, and understand your cash flow at a glance.">
+  </picture>
+</a>
 
-**[Wisething](https://wisething.app): smart finances, smarter living.**<br>
-A personal finance app to track income and expenses, organize transactions by category and scope, and review your cash flow in one clean dashboard.
+<p align="center">
+  <a href="https://wisething.app"><img src="https://img.shields.io/badge/Open_app-wisething.app-E6E4F2?style=for-the-badge&labelColor=1B1D2B" alt="Open app"></a>
+  <a href="https://play.google.com/store/apps/details?id=app.wisething"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=111" alt="Get it on Google Play"></a>
+</p>
 
-`TypeScript` · Web & Android · iOS coming soon · 🟢 Live
-
-→ **[wisething.app](https://wisething.app)**
-
-</td>
-</tr>
-</table>
+<p align="center"><sub>🟢 Live on Web & Android · iOS coming soon · Built with TypeScript</sub></p>
 
 ## 🛠️ Open source: Omega
 
@@ -45,10 +36,6 @@ A personal finance app to track income and expenses, organize transactions by ca
 
 <sub>More Omega apps coming soon.</sub>
 
-## 🧰 Stack
+## 💼 Work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tauri,rust,python,postgres,docker,linux" alt="TypeScript, React, Next.js, Tauri, Rust, Python, PostgreSQL, Docker, Linux">
-</p>
-
-<sub>By day: Cyber Analyst & Security Engineer at Worten.</sub>
+**Cyber Analyst & Security Engineer** at **[Worten](https://www.worten.pt)**
