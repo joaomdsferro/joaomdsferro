@@ -16,10 +16,14 @@
 
 <a href="https://wisething.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/wisething-banner-dark.svg">
-    <img src="assets/wisething-banner-light.svg" width="100%" alt="Wisething: Wealth intelligence. Track every transaction, organize by category and scope, and understand your cash flow at a glance.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wisething-logo-white.svg">
+    <img src="assets/wisething-logo-black.svg" width="56" align="left" alt="Wisething logo">
   </picture>
 </a>
+
+**[Wisething](https://wisething.app)**: wealth intelligence. Track every transaction, organize by category and scope, and understand your cash flow at a glance.
+
+<br clear="left">
 
 <p align="center">
   <a href="https://wisething.app"><img src="https://img.shields.io/badge/Open_app-wisething.app-E6E4F2?style=for-the-badge&labelColor=1B1D2B" alt="Open app"></a>
@@ -33,8 +37,13 @@
 **Omega** is a family of open-source apps from the team behind Wisething.
 
 - **[Omega Zap](https://github.com/joaomdsferro/omega-zap)**: WhatsApp and Signal in one native desktop client. *Early stage.*
+- **[Omega Notch](https://github.com/joaomdsferro/omega-notch)**: your AI coding tools' limits and live sessions, in a notch on macOS or KDE Plasma. *Early stage.*
 
 <sub>More Omega apps coming soon.</sub>
+
+### Contributions
+
+- **[whatsapp-rust](https://github.com/oxidezap/whatsapp-rust)**: Rust implementation of the WhatsApp protocol. Fixed app-state recovery for collections whose snapshot MAC never validates, without weakening MAC verification. [#1698](https://github.com/oxidezap/whatsapp-rust/pull/1698)
 
 ## 💼 Work
 
